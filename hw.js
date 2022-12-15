@@ -18,7 +18,7 @@ class Cat {
 }
 
 let cat1 = new Cat(2012, 'orange', 'Garfield');
-let cat2 = new Cat(2020, 'grey', 'Oatie');
+let cat2 = new Cat(2020, 'grey', 'Otis');
 console.log(cat1, cat2);
 console.log(cat1.age(),cat1.looks(), cat2.identity());
 
